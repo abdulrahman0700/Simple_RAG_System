@@ -48,7 +48,7 @@ Simple_RAG_System/
 
 ## Prerequisites
 
-- Python 3.9+
+- Python 3.14
 - [Ollama](https://ollama.com/download) installed and running
 
 Pull the two models used by the project:
